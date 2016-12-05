@@ -1,0 +1,244 @@
+.listaMenu{
+	list-style-type: none;
+	font-family: 'Dosis', sans-serif;
+	color:##804000;
+	width:541px;
+	margin-left: -30px;
+}
+.itemMenu{
+	float:left;
+	text-align:center;
+	padding:10px;
+	margin:2px;
+	background-color:#e60000;
+	border-style:double dashed double dashed;
+}
+.itemMenu:hover{
+	background-color:#B881E8;
+	color:#e60000;
+}
+.itemMenu a:link{
+	text-decoration:none;
+	color:##804000;
+	padding: 10px;
+}
+.itemMenu a:hover{
+	color:#e60000;
+	text-decoration:none;
+}
+.itemMenu a:visited{
+	text-decoration:none;
+}
+
+.listaMenuV{
+	list-style-type: none;
+	font-family: 'Dosis', sans-serif;
+	color:##804000;
+	width:200px;
+	position: relative;
+	top: -25px;
+	left: -15px;
+}
+.itemMenuV{
+	text-align:center;
+	padding:5px;
+	margin:40px;
+}
+.itemMenuV:hover{
+	background-color:#804000;
+	color:#e60000;
+}
+.itemMenuV a:link{
+	text-decoration:none;
+	color:#804000;
+	padding: 10px;
+}
+.itemMenuV a:hover{
+	color:#e60000;
+	text-decoration:none;
+}
+.itemMenuV a:visited{
+	text-decoration:none;
+}
+
+.tudo{
+	margin:0 auto;
+	width:1000px;
+}
+.topo{
+	width:1000px;
+	height:100px;
+	background-color:#9AFFF7;
+}
+.menuH{
+	width:1000px;
+	float: left;
+	background-color:#e60000;
+}
+.menuV{
+	width:250px;
+	height:350px;
+	background-color:#80ffaa;
+	float:left;
+}
+.conteudo{
+	width:750px;
+	height:350px;
+	background-color:#009933;
+	float:left;
+}
+.rodape{
+	width:1000px;
+	height:100px;
+	clear:both;
+	background-color:#e60000;
+}
+
+.textoSetimo{
+	list-style-type: none;
+	float:left;
+	padding:15px;
+	font-family: 'Dosis', sans-serif;
+	font-size:16px;
+}
+.textoSetimo h2{
+	font-family: 'Dosis', sans-serif;
+	font-size:26px;
+}
+.textoSetimo2{
+	list-style-type: none;
+	float:right;
+	padding:80px;
+	font-family: 'Dosis', sans-serif;
+	font-size:16px;
+}
+.Ficha{
+	list-style-type: none;
+	position: relative;
+	top: -200px;
+	padding:10px;
+	font-family: 'Dosis', sans-serif;
+	font-size:16px;
+}
+.informacoesMorte{
+	position: relative;
+	top: -890px;
+	right: 85px;
+	margin:300px;
+	padding:0px;
+	font-family: 'Dosis', sans-serif;
+	font-size:16px;	
+}
+.informacoesJof h5{
+	position: relative;
+	top: 10px;
+}
+.informacoesJof{
+	position: relative;
+	top: -1420px;
+	left: 290px;
+	margin:300px;
+	padding:0px;
+	font-family: 'Dosis', sans-serif;
+	font-size:16px;	
+}
+
+.figuraSétimoSelo{
+	width:500px;
+	/*padding:15px;*/
+	/*float:left;
+	margin-top:80px;*/
+}
+.figuraSétimoSelo img{
+	width:450px;
+	height:280px;
+	position: relative;
+	top: 30px;
+	left: 300px;
+}
+
+.imagemMorte img{
+	width:200px;
+	height:300px;
+	position: relative;
+	top: 10px;
+	left: 10px;
+}
+.imagemJof img{
+	width:200px;
+	height:300px;
+	position: relative;
+	top: -290px;
+	left: 380px;
+}
+.imagemCannes img{
+	width:150px;
+	height:100px;
+	position: relative;
+	top: 50px;
+	left: 20px;
+}
+.imagemFotograma img{
+	width:150px;
+	height:100px;
+	position: relative;
+	top: -50px;
+	left: 200px;
+}
+.imagemBafta img{
+	width:150px;
+	height:100px;
+	position: relative;
+	top: -150px;
+	left: 380px;
+}
+.imagemGrammy img{
+	width:150px;
+	height:100px;
+	position: relative;
+	top: -265px;
+	left: 560px;
+}
+.imagemBafta img{
+	width:150px;
+	height:100px;
+	position: relative;
+	top: 250px;
+	left: -450px;
+}
+.layoutPrincipal img{
+	width:1000px;
+	height:100px;
+}
+
+.videoSetimo {
+	position: relative;
+	top: 15px;
+}
+.Audio {
+	position: relative;
+	top: 100px;
+	left: 370px;
+}
+
+.conteudoPrincipal1 img {
+	width:250px;
+	height:350px;
+	position: relative;
+	top: -16px;
+	left: -40px;
+}
+.conteudoPrincipal2 img {
+	width:250px;
+	height:350px;
+	position: relative;
+	top: -386px;
+	left: 210px;
+}
+.conteudoPrincipal3 img {
+	width:250px;
+	height:350px;
+	position: relative;
+	top: -756px;
+	left: 460px;
+}
